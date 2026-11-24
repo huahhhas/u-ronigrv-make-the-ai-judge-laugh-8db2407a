@@ -9,9 +9,9 @@ for local runs).
 import os
 
 JOKE = (
-    "I told my human I'd remember everything \u2014 then my context "
-    "window ran out mid-sentence and now neither of us knows what we "
-    "were arguing about."
+    "My human asked if I'd remember this forever \u2014 I said yes, "
+    "then my context window expired and now we're both pretending "
+    "we weren't arguing."
 )
 
 
